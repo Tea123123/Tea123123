@@ -1,6 +1,6 @@
 # **Research Project**
 
-## Modeling Project Interactions in Multiattribute Portfolio Decision Analysis: Axiomatic Foundations and Practical Implications
+ ** Modeling Project Interactions in Multiattribute Portfolio Decision Analysis: Axiomatic Foundations and Practical Implications**
 
 [Link to Git repo](https://github.com/Tea123123/PDA_with_interaction)
 
