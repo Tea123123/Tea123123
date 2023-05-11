@@ -15,7 +15,7 @@ Git repo: https://github.com/Tea123123/MAUT_Bayesian
 
 Git repo: https://github.com/Tea123123/Sustainability_PDA
 
-# 2.Small-scale Data Project
+# 2.Small-scale Data Science Project
 
 - Money laundering detection using Logistic Regression and XGBoost
 
