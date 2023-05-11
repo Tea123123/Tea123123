@@ -7,7 +7,7 @@
   - Uses Gurobi to solve for the optimal project portfolio under resource constraints
   - Produces charts that illustrate the experimental results, which will be included in an academic manuscript.
 
-   [Link to Git repo](https://github.com/Tea123123/PDA_with_interaction)
+[Link to Git repo](https://github.com/Tea123123/PDA_with_interaction)
 
 **Poor choices and post-decision surprises – the impact of evaluation uncertainties in multiattribute decision-making**
 - The aim of this project is to investigate how the properties of a multiattribute utility model affect post-decision surprise and decision quality. 
