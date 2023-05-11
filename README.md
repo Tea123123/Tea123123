@@ -1,10 +1,10 @@
-# 1. Research Project
+# **Research Project**
 
 - Modeling Project Interactions in Multiattribute
 Portfolio Decision Analysis: Axiomatic Foundations
 and Practical Implications
 
-Git repo: https://github.com/Tea123123/PDA_with_interaction
+[Link to Git repo]([https://www.example.com](https://github.com/Tea123123/PDA_with_interaction))
 
 - Poor choices and post-decision surprises – the impact of evaluation
 uncertainties in multiattribute decision-making
@@ -15,7 +15,7 @@ Git repo: https://github.com/Tea123123/MAUT_Bayesian
 
 Git repo: https://github.com/Tea123123/Sustainability_PDA
 
-# 2.Small-scale Data Science Project
+# **Small-scale Data Science Project**
 
 - Money laundering detection using Logistic Regression and XGBoost
 
