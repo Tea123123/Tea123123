@@ -1,13 +1,10 @@
 # **Research Project**
 
-## Modeling Project Interactions in Multiattribute
-Portfolio Decision Analysis: Axiomatic Foundations
-and Practical Implications
+## Modeling Project Interactions in Multiattribute Portfolio Decision Analysis: Axiomatic Foundations and Practical Implications
 
 [Link to Git repo](https://github.com/Tea123123/PDA_with_interaction)
 
-## Poor choices and post-decision surprises – the impact of evaluation
-uncertainties in multiattribute decision-making
+## Poor choices and post-decision surprises – the impact of evaluation uncertainties in multiattribute decision-making
 
 [Link to Git repo](https://github.com/Tea123123/MAUT_Bayesian)
 
