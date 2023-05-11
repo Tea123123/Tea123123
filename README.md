@@ -4,7 +4,7 @@
 Portfolio Decision Analysis: Axiomatic Foundations
 and Practical Implications
 
-[Link to Git repo]([https://www.example.com](https://github.com/Tea123123/PDA_with_interaction))
+[Link to Git repo](https://www.example.com](https://github.com/Tea123123/PDA_with_interaction)
 
 - Poor choices and post-decision surprises – the impact of evaluation
 uncertainties in multiattribute decision-making
