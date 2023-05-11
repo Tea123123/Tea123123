@@ -7,7 +7,7 @@
   - Solving optimal portfolio of projects under resource constraints using Gurobi
   - Drawing charts to depict the experimental results to be included in academic manuscript
 
-[Link to Git repo](https://github.com/Tea123123/PDA_with_interaction)
+   [Link to Git repo](https://github.com/Tea123123/PDA_with_interaction)
 
 **Poor choices and post-decision surprises – the impact of evaluation uncertainties in multiattribute decision-making**
 
