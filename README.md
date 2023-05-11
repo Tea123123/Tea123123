@@ -1,4 +1,4 @@
-#### 1. Research Project
+# 1. Research Project
 
 - Modeling Project Interactions in Multiattribute
 Portfolio Decision Analysis: Axiomatic Foundations
@@ -15,7 +15,7 @@ Git repo: https://github.com/Tea123123/MAUT_Bayesian
 
 Git repo: https://github.com/Tea123123/Sustainability_PDA
 
-#### 2.Small-scale Data Project
+# 2.Small-scale Data Project
 
 - Money laundering detection using Logistic Regression and XGBoost
 
