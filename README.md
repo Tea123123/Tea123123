@@ -1,13 +1,5 @@
 # **Research Project**
 
-**Modeling Project Interactions in Multiattribute Portfolio Decision Analysis: Axiomatic Foundations and Practical Implications**
-- The objective of this project is to create a portfolio utility model that can account for the interactions between projects.
-- The program file contains Python code that performs the following tasks:
-  - Generates simulations for multi-attribute projects with randomly generated values
-  - Uses Gurobi to solve for the optimal project portfolio under resource constraints
-  - Produces charts that illustrate the experimental results, which will be included in an academic manuscript.
-
-[Link to Git repo](https://github.com/Tea123123/PDA_with_interaction)
 
 **Poor choices and post-decision surprises – the impact of evaluation uncertainties in multiattribute decision-making**
 - The aim of this project is to investigate how the properties of a multiattribute utility model affect post-decision surprise and decision quality. 
@@ -18,6 +10,15 @@
   - Produce charts that visually depict the experimental results, which will be included in an academic manuscript.
 
 [Link to Git repo](https://github.com/Tea123123/MAUT_Bayesian)
+
+**Modeling Project Interactions in Multiattribute Portfolio Decision Analysis: Axiomatic Foundations and Practical Implications**
+- The objective of this project is to create a portfolio utility model that can account for the interactions between projects.
+- The program file contains Python code that performs the following tasks:
+  - Generates simulations for multi-attribute projects with randomly generated values
+  - Uses Gurobi to solve for the optimal project portfolio under resource constraints
+  - Produces charts that illustrate the experimental results, which will be included in an academic manuscript.
+
+[Link to Git repo](https://github.com/Tea123123/PDA_with_interaction)
 
 **Portfolio decision analysis approach for selecting a portfolio of interdependent actions in the regional climate roadmap in Finland**
 - The goal of this project is to assist in the decision-making process for selecting an optimal portfolio of environmental initiatives that address the challenges of climate change. Specifically, we develop a model and process that incorporate expert opinions on the interactions between actions.
